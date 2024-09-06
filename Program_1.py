@@ -3,3 +3,7 @@
 # Title: Hello World
 
 print("Hello World")
+
+# When clicking the run button
+# Output will be:
+#  Hello World
